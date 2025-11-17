@@ -91,9 +91,7 @@ Password: 1234
 
 
 👥 Team Members
-| Name | ID | Role |
-|------|----|------|
-| Kshitiz Lodhi | Developer |
+| Name :- Kshitiz Lodhi |
 
 📄 License
 This project is developed for academic and learning purposes under an open educational license.
